@@ -23,10 +23,13 @@
 
 ## 📊 My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkarodrigo&show_icons=true&locale=en" alt="avishkarodrigo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="avishkarodrigo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkarodrigo&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="avishkarodrigo" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaRodrigo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="avishkarodrigo" /></p>
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
 
 <a href="https://github.com/AvishkaRodrigo/github-readme-activity-graph"><img alt="AvishkaRodrigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AvishkaRodrigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
