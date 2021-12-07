@@ -24,10 +24,10 @@
 ## 📊 My Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="avishkarodrigo" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaRodrigo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="avishkarodrigo" /></p>
 <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br>
+  <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <br>
 <br>
 
