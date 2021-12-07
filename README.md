@@ -38,7 +38,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="right">
 
 
 <a href = "https://twitter.com/avish_rodrigo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
