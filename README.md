@@ -23,27 +23,26 @@
 
 ## 📊 My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="avishkarodrigo" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaRodrigo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="avishkarodrigo" /></p>
+<br/>
+    <a href="https://github.com/AvishkaRodrigo/github-readme-stats"><img alt="AvishkaRodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AvishkaRodrigo/github-readme-stats"><img alt="AvishkaRodrigo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaRodrigo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-  <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-<br/>
-<br/>
-
 <a href="https://github.com/AvishkaRodrigo/github-readme-activity-graph"><img alt="AvishkaRodrigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AvishkaRodrigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 <div  align="right">
-## Connect with me:
 
-<p align="right">
+  <b>Connect with me:</b>
+
+    <p align="right">
 
 
-<a href = "https://twitter.com/avish_rodrigo" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_.b_l_.a._c_k._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="www.linkedin.com/in/avishkarodrigo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        <a href = "https://twitter.com/avish_rodrigo" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+        <a href = "https://www.instagram.com/_.b_l_.a._c_k._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+        <a href="www.linkedin.com/in/avishkarodrigo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-</p>
+    </p>
 </div>
