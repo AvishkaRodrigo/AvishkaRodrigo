@@ -46,14 +46,21 @@
 
 ## 📊 My Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaRodrigo&" alt="avishkarodrigo" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&locale=en" alt="avishkarodrigo" /></p>
+<p align="center">
+    <a href="https://github.com/AvishkaRodrigo/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avishka Rodrigo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaRodrigo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaRodrigo&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="avishkarodrigo" /></p>
+## 📊 My Github Stats
 
-
-<a href="https://github.com/AvishkaRodrigo/github-readme-activity-graph"><img alt="AvishkaRodrigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AvishkaRodrigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+    <a href="https://github.com/AvishkaRodrigo/github-readme-stats"><img alt="AvishkaRodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AvishkaRodrigo/github-readme-stats"><img alt="AvishkaRodrigo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaRodrigo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
