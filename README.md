@@ -40,9 +40,9 @@
     <p align="right">
 
 
-        <a href = "https://twitter.com/avish_rodrigo" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-        <a href = "https://www.instagram.com/_.b_l_.a._c_k._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-        <a href="www.linkedin.com/in/avishkarodrigo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        <a href="https://twitter.com/RodrigoAvishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+        <a href="https://www.instagram.com/_.b_l_.a._c_k._/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+        <a href="www.linkedin.com/in/avishkarodrigo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 
     </p>
 </div>
