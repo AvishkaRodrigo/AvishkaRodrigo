@@ -35,8 +35,7 @@
 <br/>
 <div  align="right">
 
-  <b>Connect with me:</b>
-
+  ##Connect with me:
     <p align="right">
 
 
