@@ -36,9 +36,10 @@
 
 <p align="right">
   ##Connect with me:
-
-
-
+        <h3 align="left">Connect with me:</h3>
+        <p >
+        <a href="https://twitter.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                     generator/master/src/images/icons/Social/twitter.svg" alt="as" height="30" width="40" /></a>
+        </p>
         <a href="https://twitter.com/RodrigoAvishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
         <a href="https://www.instagram.com/_.b_l_.a._c_k._/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
         <a href="www.linkedin.com/in/avishkarodrigo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
