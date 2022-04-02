@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AR</h1>
-<h3 align="center">A passionate in IT</h3>
+<h3 align="center">passionate in IT</h3>
 - 🙋‍About me
 
 - 🎓 I'm Undergraduate of University of Kelaniya | BSc. (Hons) in Management & Information Technology.
