@@ -21,9 +21,13 @@
 
 <tr>
 <td valign="top" width="50%">
+  
 - 🎓 I'm Undergraduate of University of Kelaniya | BSc. (Hons) in Management & Information Technology.  
+  
 - 🌱 I’m currently learning React and Kotlin.  
+  
 - 📫 How to reach me [Gmail](avish.rodrigo11@gmail.com)  
+  
 </td>
 <td valign="top" width="50%">
 <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>  
