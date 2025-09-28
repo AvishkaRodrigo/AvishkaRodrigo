@@ -13,14 +13,14 @@
       </td>
       <td valign="top" width="50%">
         - 📫 How to reach me 
-        <br> <img src=""/>| 
+        <br>  
 
-        <a href ="avishkacrodrigo@gmail.com">
-          GMAIL
-        </a>
-        <a href ="www.linkedin.com/in/avishkarodrigo">
-          LINKEDIN
-        </a>
+  <a href ="avishkacrodrigo@gmail.com">
+    GMAIL
+  </a>
+  <a href ="www.linkedin.com/in/avishkarodrigo">
+    LINKEDIN
+  </a>
           <!-- <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>   -->
       </td>
   </tr>
