@@ -16,10 +16,10 @@
         <br> <img src=""/>| 
 
         <a href ="avishkacrodrigo@gmail.com">
-          <img src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" alt="gmail"/> 
+          GMAIL
         </a>
         <a href ="www.linkedin.com/in/avishkarodrigo">
-          <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" alt="linkedin"/> 
+          LINKEDIN
         </a>
           <!-- <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>   -->
       </td>
