@@ -18,6 +18,7 @@
   <a href ="avishkacrodrigo@gmail.com">
     GMAIL
   </a>
+  <br/>
   <a href ="www.linkedin.com/in/avishkarodrigo">
     LINKEDIN
   </a>
