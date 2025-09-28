@@ -1,10 +1,4 @@
 ## Hey 👋, I'm AR!  
-  
-
-
-<a href="https://linkedin.com/in/avishkarodrigo" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
 
 ### Glad to see you here!  
 
@@ -13,18 +7,15 @@
 ## Rapidfire  
 <table>
 
-<tr>
-    <td valign="top" width="50%">
-  
-- 🎓 Graduated from University of Kelaniya | BSc. (Hons) in Management & Information Technology.  
-  
-- 📫 How to reach me [Gmail](avishkacrodrigo@gmail.com)  
-  
-    </td>
-    <td valign="top" width="50%">
-        <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>  
-    </td>
-</tr>
+  <tr>
+      <td valign="top" width="50%">
+        - 🎓 Graduated at University of Kelaniya | BSc. (Hons) in Management & Information Technology (Sp. in IT)  
+      </td>
+      <td valign="top" width="50%">
+        - 📫 How to reach me [Gmail](avishkacrodrigo@gmail.com) | [LinkedIn](www.linkedin.com/in/avishkarodrigo) 
+          <!-- <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>   -->
+      </td>
+  </tr>
 </table>  
 
 <br/>  
