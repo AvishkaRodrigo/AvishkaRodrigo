@@ -9,7 +9,10 @@
 
   <tr>
       <td valign="top" width="50%">
-        - 🎓 Graduated at University of Kelaniya | BSc. (Hons) in Management & Information Technology (Sp. in IT)  
+        - 🧑‍💻 SE 
+      </td>
+      <td valign="top" width="50%">
+        - 🎓 BSc. in Management & Information Technology (Sp. in IT)  | University of Kelaniya, Sri Lanka
       </td>
       <td valign="top" width="50%">
         - 📫 How to reach me 
