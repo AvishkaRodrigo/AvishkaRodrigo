@@ -9,9 +9,7 @@
 
   <tr>
       <td valign="top" width="50%">
-        - 🧑‍💻 SE 
-      </td>
-      <td valign="top" width="50%">
+        - 🧑‍💻 SE <br/> 
         - 🎓 BSc. in Management & Information Technology (Sp. in IT)  | University of Kelaniya, Sri Lanka
       </td>
       <td valign="top" width="50%">
